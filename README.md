@@ -1,1 +1,1 @@
-# Automation script to make my life easier.
+# automation script to make my life easier.
