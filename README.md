@@ -1,1 +1,2 @@
-# automation script to make my life easier.
+# webscraper-db-automation
+automation script to make my life easier.
